@@ -1,0 +1,23 @@
+.marker-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.marker-btn img {
+    width: 30px;
+    height: 30px;
+}
+
+nav {
+    float: right;
+    width: 25vw;
+    padding: 20px;
+}
+  
+article {
+    float: left;
+    width: 65vw;
+    height: 80vh;
+    padding: 20px;
+}
